@@ -1,4 +1,4 @@
-carlinmack.com/blog/s/
+https://carlinmack.com/blog/s/
 
 Contact me at carlinmack@pm.me if you want the original, non watermarked images
 
