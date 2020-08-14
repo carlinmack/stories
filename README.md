@@ -1,8 +1,8 @@
 https://carlinmack.com/blog/s/
 
-|                       |                       |
-|-----------------------|-----------------------|
-| ![image](reverse-racism/1.jpg) | ![image](belief-racists/1.jpg) |
+|                                |                              |
+|--------------------------------|------------------------------|
+| ![image](reverse-racism/1.jpg) | ![image](racist-fonts/1.jpg) |
 
 Contact me at carlinmack@pm.me if you want the original, non watermarked images
 
