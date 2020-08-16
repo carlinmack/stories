@@ -1,4 +1,4 @@
-https://carlinmack.com/blog/s/
+https://carlinmack.com/s/
 
 |                                |                              |
 |--------------------------------|------------------------------|
